@@ -1,6 +1,6 @@
 # PowerShell OCR Capture
 
-This project aims to make use of native Windows 10/11 features to allow users to grab text from the contents of their screen. It uses Snipping Tool/Snip & Sketch and the Windows 10 OCR engine to provide an OCR screen text capture functionality. Unlike other screen OCR tools, this project does not require any third-party dependencies. This makes it possible to run on restrictive devices, such as work computers.
+This project aims to make use of native Windows 10/11 features to allow users to grab text from the contents of their screen. It uses Snipping Tool/Snip & Sketch and the Windows 10 OCR engine. Unlike other screen OCR tools, this project does not require any third-party dependencies. This makes it possible to run on restrictive devices, such as work computers.
 
 <hr width=50>
 
